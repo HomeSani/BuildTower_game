@@ -10,7 +10,7 @@ title_as_file_name = BuildTower
 [display]
 width = 640
 height = 1136
-high_dpi = 0
+high_dpi = 1
 samples = 0
 fullscreen = 0
 update_frequency = 0
